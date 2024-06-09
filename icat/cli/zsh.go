@@ -5,11 +5,11 @@ package cli
 import (
 	"fmt"
 	"strings"
-	"xcat/icat/cli/markup"
-	"xcat/icat/tty"
-	"xcat/icat/utils"
-	"xcat/icat/utils/style"
-	"xcat/icat/wcswidth"
+	"github.com/sweetbbak/lcat/icat/cli/markup"
+	"github.com/sweetbbak/lcat/icat/tty"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/style"
+	"github.com/sweetbbak/lcat/icat/wcswidth"
 )
 
 var _ = fmt.Print

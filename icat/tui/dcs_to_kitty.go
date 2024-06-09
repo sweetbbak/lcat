@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils"
 )
 
 var _ = fmt.Print

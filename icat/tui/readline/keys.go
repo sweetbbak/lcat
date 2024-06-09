@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"xcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
 	"icat/tui/shortcuts"
 )
 

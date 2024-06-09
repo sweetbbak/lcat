@@ -1,4 +1,4 @@
-module xcat
+module github.com/sweetbbak/lcat
 
 go 1.22.3
 

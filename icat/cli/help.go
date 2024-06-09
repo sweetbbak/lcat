@@ -13,10 +13,10 @@ import (
 	"golang.org/x/exp/slices"
 	"golang.org/x/sys/unix"
 
-	"xcat/icat/cli/markup"
-	"xcat/icat/tty"
-	"xcat/icat/utils"
-	"xcat/icat/utils/style"
+	"github.com/sweetbbak/lcat/icat/cli/markup"
+	"github.com/sweetbbak/lcat/icat/tty"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/style"
 )
 
 var _ = fmt.Print

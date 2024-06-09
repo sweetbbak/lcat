@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strings"
 
-	"xcat/icat/utils"
-	"xcat/icat/utils/images"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/images"
 
 	"golang.org/x/exp/slices"
 )

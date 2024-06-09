@@ -18,8 +18,8 @@ import (
 	"strings"
 	"sync"
 
-	"xcat/icat/utils"
-	"xcat/icat/utils/shm"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/shm"
 
 	"github.com/edwvee/exiffix"
 	"github.com/kovidgoyal/imaging"

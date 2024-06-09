@@ -10,10 +10,10 @@ import (
 	"strings"
 	"time"
 
-	"xcat/icat/cli"
-	"xcat/icat/utils"
-	"xcat/icat/utils/shlex"
-	"xcat/icat/wcswidth"
+	"github.com/sweetbbak/lcat/icat/cli"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/shlex"
+	"github.com/sweetbbak/lcat/icat/wcswidth"
 )
 
 var _ = fmt.Print

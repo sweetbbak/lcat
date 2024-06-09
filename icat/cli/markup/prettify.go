@@ -9,8 +9,8 @@ import (
 	"strings"
 	"unicode"
 
-	"xcat/icat/utils"
-	"xcat/icat/utils/style"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/style"
 )
 
 var _ = fmt.Print

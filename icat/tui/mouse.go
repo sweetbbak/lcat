@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"xcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
 )
 
 var _ = fmt.Print

@@ -5,9 +5,9 @@ package readline
 import (
 	"container/list"
 	"fmt"
-	"xcat/icat/cli"
-	"xcat/icat/tui/loop"
-	"xcat/icat/utils/shlex"
+	"github.com/sweetbbak/lcat/icat/cli"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/utils/shlex"
 	"strconv"
 	"strings"
 	"testing"

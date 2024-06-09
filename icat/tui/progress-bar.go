@@ -4,7 +4,7 @@ package tui
 
 import (
 	"fmt"
-	"xcat/icat/cli/markup"
+	"github.com/sweetbbak/lcat/icat/cli/markup"
 	"strings"
 )
 

@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"strings"
 
-	"xcat/icat/cli"
-	"xcat/icat/cli/markup"
-	"xcat/icat/tui/loop"
-	"xcat/icat/wcswidth"
+	"github.com/sweetbbak/lcat/icat/cli"
+	"github.com/sweetbbak/lcat/icat/cli/markup"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/wcswidth"
 )
 
 var _ = fmt.Print

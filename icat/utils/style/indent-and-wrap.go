@@ -9,8 +9,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"xcat/icat/utils"
-	"xcat/icat/wcswidth"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/wcswidth"
 )
 
 type sgr_color struct {

@@ -8,9 +8,9 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"xcat/icat/utils"
-	"xcat/icat/utils/style"
-	"xcat/icat/wcswidth"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/style"
+	"github.com/sweetbbak/lcat/icat/wcswidth"
 
 	"golang.org/x/exp/slices"
 )

@@ -15,11 +15,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	"xcat/icat/tty"
-	"xcat/icat/tui/graphics"
-	"xcat/icat/utils"
-	"xcat/icat/utils/images"
-	"xcat/icat/utils/shm"
+	"github.com/sweetbbak/lcat/icat/tty"
+	"github.com/sweetbbak/lcat/icat/tui/graphics"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/images"
+	"github.com/sweetbbak/lcat/icat/utils/shm"
 )
 
 var _ = fmt.Print

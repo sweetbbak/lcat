@@ -7,7 +7,7 @@ import (
 	_ "embed"
 	"errors"
 	"fmt"
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils"
 	"io"
 	"regexp"
 	"strings"

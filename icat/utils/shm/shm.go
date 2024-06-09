@@ -11,7 +11,7 @@ import (
 	"os"
 	"strings"
 
-	"xcat/icat/cli"
+	"github.com/sweetbbak/lcat/icat/cli"
 
 	"golang.org/x/sys/unix"
 )

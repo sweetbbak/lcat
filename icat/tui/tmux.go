@@ -16,7 +16,7 @@ import (
 	"github.com/shirou/gopsutil/v3/process"
 	"golang.org/x/sys/unix"
 
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils"
 )
 
 var _ = fmt.Print

@@ -4,7 +4,7 @@ package shortcuts
 
 import (
 	"fmt"
-	"xcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
 	"strings"
 )
 

@@ -20,9 +20,9 @@ package main
 import (
 	"log"
 	"os"
-	"xcat/icat"
 
 	"github.com/jessevdk/go-flags"
+	"github.com/sweetbbak/lcat"/icat"
 )
 
 func lcat(args []string, opt Opts) error {

@@ -15,11 +15,11 @@ import (
 	"github.com/shirou/gopsutil/v3/process"
 	"golang.org/x/sys/unix"
 
-	"xcat/icat/utils"
-	"xcat/icat/tty"
-	"xcat/icat/tui/loop"
-	"xcat/icat/tui/shell_integration"
-	"xcat/icat/utils/shlex"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/tty"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/tui/shell_integration"
+	"github.com/sweetbbak/lcat/icat/utils/shlex"
 )
 
 var _ = fmt.Print

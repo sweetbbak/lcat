@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"os"
-	"xcat/icat"
+	"github.com/sweetbbak/lcat/icat"
 
 	"github.com/jessevdk/go-flags"
 )

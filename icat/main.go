@@ -11,12 +11,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"xcat/icat/tty"
-	"xcat/icat/tui"
-	"xcat/icat/tui/graphics"
-	"xcat/icat/utils"
-	"xcat/icat/utils/images"
-	"xcat/icat/utils/style"
+	"github.com/sweetbbak/lcat/icat/tty"
+	"github.com/sweetbbak/lcat/icat/tui"
+	"github.com/sweetbbak/lcat/icat/tui/graphics"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/images"
+	"github.com/sweetbbak/lcat/icat/utils/style"
 
 	"golang.org/x/sys/unix"
 )

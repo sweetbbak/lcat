@@ -14,9 +14,9 @@ import (
 	"golang.org/x/exp/maps"
 	"golang.org/x/exp/slices"
 
-	"xcat/icat/kitty"
-	"xcat/icat/tty"
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/kitty"
+	"github.com/sweetbbak/lcat/icat/tty"
+	"github.com/sweetbbak/lcat/icat/utils"
 )
 
 var _ = fmt.Print

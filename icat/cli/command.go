@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"strings"
 
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils"
 )
 
 var _ = fmt.Print

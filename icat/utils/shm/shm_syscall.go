@@ -12,7 +12,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils"
 
 	"golang.org/x/sys/unix"
 )

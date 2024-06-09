@@ -4,7 +4,7 @@ package subseq
 
 import (
 	"fmt"
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils"
 	"strconv"
 	"strings"
 	"testing"

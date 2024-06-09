@@ -13,7 +13,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils"
 
 	"golang.org/x/sys/unix"
 )

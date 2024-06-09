@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"strings"
 
-	"xcat/icat/tui/loop"
-	"xcat/icat/wcswidth"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/wcswidth"
 )
 
 type KilledBySignal struct {

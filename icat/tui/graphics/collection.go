@@ -10,11 +10,11 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"xcat/icat/tui"
-	"xcat/icat/tui/loop"
-	"xcat/icat/utils"
-	"xcat/icat/utils/images"
-	"xcat/icat/utils/shm"
+	"github.com/sweetbbak/lcat/icat/tui"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/images"
+	"github.com/sweetbbak/lcat/icat/utils/shm"
 
 	"golang.org/x/exp/maps"
 )

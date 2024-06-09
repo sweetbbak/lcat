@@ -4,7 +4,7 @@ package tui
 
 import (
 	"fmt"
-	"xcat/icat/wcswidth"
+	"github.com/sweetbbak/lcat/icat/wcswidth"
 	"testing"
 )
 

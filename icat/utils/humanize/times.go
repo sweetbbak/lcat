@@ -2,7 +2,7 @@ package humanize
 
 import (
 	"fmt"
-	"xcat/icat/wcswidth"
+	"github.com/sweetbbak/lcat/icat/wcswidth"
 	"math"
 	"sort"
 	"strings"

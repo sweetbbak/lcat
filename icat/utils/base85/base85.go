@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"sync"
 
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils"
 )
 
 // 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!#$%&()*+-;<=>?@^_`{|}~

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strings"
 
-	"xcat/icat/cli/markup"
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/cli/markup"
+	"github.com/sweetbbak/lcat/icat/utils"
 
 	"golang.org/x/exp/maps"
 )

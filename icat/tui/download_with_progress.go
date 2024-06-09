@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"xcat/icat/tui/loop"
-	"xcat/icat/utils"
-	"xcat/icat/utils/humanize"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/humanize"
 )
 
 var _ = fmt.Print

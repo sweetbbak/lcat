@@ -4,7 +4,7 @@ package cli
 
 import (
 	"fmt"
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils"
 	"os"
 	"path/filepath"
 	"reflect"

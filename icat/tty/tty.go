@@ -14,7 +14,7 @@ import (
 
 	"golang.org/x/sys/unix"
 
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils"
 )
 
 const (

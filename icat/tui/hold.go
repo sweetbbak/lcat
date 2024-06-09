@@ -8,7 +8,7 @@ import (
 	"os"
 	"os/exec"
 
-	"xcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
 )
 
 var _ = fmt.Print

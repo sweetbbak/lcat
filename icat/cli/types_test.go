@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"xcat/icat/utils/shlex"
+	"github.com/sweetbbak/lcat/icat/utils/shlex"
 )
 
 var _ = fmt.Print

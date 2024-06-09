@@ -11,9 +11,9 @@ import (
 	"strconv"
 	"strings"
 
-	"xcat/icat/tty"
-	"xcat/icat/tui/loop"
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/tty"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/utils"
 )
 
 var _ = fmt.Print

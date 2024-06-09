@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/sys/unix"
 
-	"xcat/icat/tty"
-	"xcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/tty"
+	"github.com/sweetbbak/lcat/icat/utils"
 )
 
 var _ = fmt.Print

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"xcat/icat/utils/shlex"
+	"github.com/sweetbbak/lcat/icat/utils/shlex"
 )
 
 type escape_code interface {

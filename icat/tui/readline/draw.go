@@ -4,9 +4,9 @@ package readline
 
 import (
 	"fmt"
-	"xcat/icat/tui/loop"
-	"xcat/icat/utils"
-	"xcat/icat/wcswidth"
+	"github.com/sweetbbak/lcat/icat/tui/loop"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/wcswidth"
 	"strings"
 )
 

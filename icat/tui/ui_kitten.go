@@ -8,9 +8,9 @@ import (
 	"os"
 	"sync"
 
-	"xcat/icat/cli"
-	"xcat/icat/utils"
-	"xcat/icat/utils/base85"
+	"github.com/sweetbbak/lcat/icat/cli"
+	"github.com/sweetbbak/lcat/icat/utils"
+	"github.com/sweetbbak/lcat/icat/utils/base85"
 )
 
 var _ = fmt.Print
