@@ -80,6 +80,6 @@ func main() {
 
 	err = cat(args, opts)
 	if err != nil {
-		log.Fatal("%v\n", err)
+		log.Fatal(err)
 	}
 }
