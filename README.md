@@ -22,7 +22,7 @@ import (
 	"os"
 
 	"github.com/jessevdk/go-flags"
-	"github.com/sweetbbak/lcat"/icat"
+	"github.com/sweetbbak/lcat/icat"
 )
 
 func lcat(args []string, opt Opts) error {
