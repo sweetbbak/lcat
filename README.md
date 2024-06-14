@@ -2,6 +2,8 @@
 
 A Kitty Terminal graphics CLI tool and Library.
 
+![lcat image preview placing images in the terminal](assets/output.gif)
+
 ## The lcat CLI tool
 
 if you are familiar with `icat` then the options are basically the exact same.
@@ -54,3 +56,6 @@ func lcat(args []string, opt Opts) error {
 	}
 }
 ```
+
+if you are using `lcat` as a library for a TUI you will want to ensure that STDIN is set to `false` otherwise garbage data will be read
+on STDIN and cause an error.
